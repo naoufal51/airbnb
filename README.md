@@ -35,7 +35,7 @@ The main focus of this project is to explore and analyze Airbnb listings data to
 ``` bash
     git clone https://github.com/naoufal51/airbnb.git
 ```
-2. Download the Airbnb listings dataset (in CSV format) from [Inside Airbnb](http://insideairbnb.com/) and place it in the data/raw/airbnb/ directory.
+2. Download the Airbnb listings dataset (in CSV format) from [Inside Airbnb](http://insideairbnb.com/) and place it in the data/raw/airbnb/ directory. For the data used to plot tourist attraction heatmap, you can download it from [mygeodata](https://mygeodata.cloud/data/download/osm/tourism/united-states-of-america--california/los-angeles-county)
 
 3. Install the required Python packages using the requirements.txt file:
 ``` bash
