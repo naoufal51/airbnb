@@ -1,9 +1,9 @@
 # Airbnb Data Analysis
 This repository contains the code and data for pricing strategy analysis based on Airbnb listings in Los Angeles County. The analysis aims to answer the following questions:
 
-What factors contribute to the price of an Airbnb listing?
-Can we predict the price of a listing given its features?
-How do the availability and the stay duration impact listing prices?
+* What factors contribute to the price of an Airbnb listing?
+* Can we predict the price of a listing given its features?
+* How do the availability and the stay duration impact listing prices?
 
 ## Table of Contents
 
