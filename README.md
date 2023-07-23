@@ -48,7 +48,7 @@ The analysis is broken down into three parts, each corresponding to a question l
 
 * **Question 1**: The notebooks data_cleaning.ipynb and data_exploration.ipynb in the question_1 folder perform data cleaning, exploration, and feature engineering to identify the factors contributing to the price of an Airbnb listing.
 * **Question 2**: The notebook model_price.ipynb in the question_2 folder performs additional feature engineering, trains machine learning models, and evaluates their performance for predicting the price of a listing given its features.
-* **Question 3**: The notebook data_exploration.ipynb in the question_3 folder analyzes the impact of availability and stay duration on listing prices .
+* **Question 3**: The notebook data_exploration.ipynb in the question_3 folder analyzes the impact of seasonality, availability and stay duration on listing prices .
 
 ## Data
 
@@ -60,4 +60,5 @@ Trained machine learning models for question 2 are stored in the models/question
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE for more information.
+Check [Inside Airbnb](http://insideairbnb.com/) and [mygeodata](https://mygeodata.cloud/data/download/osm/tourism/united-states-of-america--california/los-angeles-county) for data licenses.
+As for the code you can use it freely.
