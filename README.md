@@ -5,6 +5,8 @@ This repository contains the code and data for pricing strategy analysis based o
 * Can we predict the price of a listing given its features?
 * How do the availability and the stay duration impact listing prices?
 
+  Check my medium article detailing the [analysis](https://medium.com/@naoufal51/is-your-airbnb-pricing-strategy-optimized-exploring-insights-from-data-science-d54e8f969ecc)
+
 ## Table of Contents
 
 1. **Overview**
